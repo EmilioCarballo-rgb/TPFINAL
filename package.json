@@ -9,5 +9,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilioCarballo-rgb/TPFINAL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmilioCarballo-rgb/TPFINAL/issues"
+  },
+  "homepage": "https://github.com/EmilioCarballo-rgb/TPFINAL#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
